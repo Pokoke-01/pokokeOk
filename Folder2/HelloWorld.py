@@ -1,5 +1,6 @@
 #!/bin/user/python2
 
+#belajar python pemula di termux
 
 print ("=====================================")
 print ("H e l l o !")
