@@ -14,3 +14,11 @@ Ini tulisan apalah gajelas pokoke ya gini.
 * [`Pokoke`](https://github.com/Pokoke-01)
 
 ***
+
+#### Ini Tabel
+
+|No|Nama|
+|--|----|
+|1 |Anu |
+|2 |Ani |
+|3 |Ana |
