@@ -29,6 +29,9 @@ Ini tulisan apalah gajelas pokoke ya gini.
 - [ ] dianu anu
 - [x] Aowkaowkwok
 
-###### Center
+##### Tabel 2
 
-  Haloo
+|  Ket  |  Nama  |
+| :--: | :--: |
+|  ✅  |  Gatau  |
+|  ❓  |  Entahlah  |
