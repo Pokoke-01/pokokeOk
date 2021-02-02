@@ -35,3 +35,14 @@ Ini tulisan apalah gajelas pokoke ya gini.
 | :--: | :--: |
 |  ✅  |  Gatau  |
 |  ❓  |  Entahlah  |
+
+
+<details>
+  <summary><b>List drop-down</b></summary>
+
+  * `Halo`
+  * `Test`
+  * `drop-down`
+
+</details>
+
